@@ -1,0 +1,7 @@
+# Source artwork dumps — not referenced by the site (public/ has optimized copies)
+abdo/
+
+# Build artifacts and logs
+.next/
+*.log
+.env*.local
